@@ -269,7 +269,7 @@ git push -u origin main
 
 >> Протакливание своей версии на github
 
-git clone
+git clone https://github.com/ilnar-geekbrains/version_control_lection_3.git
 
 >> копирование чьего-то репозитория
 

@@ -253,7 +253,23 @@ __Далее будут приведены примеры команд GIT__
 
 ![Милаха](/image/1.jpg "Панда")
 
+---
 
+# Работа в удаленном репозитории
+
+git remote add origin https://github.com/toffich/toffich_test.git
+
+>> подключение к репозиторию на github 
+
+git branch -M main
+
+>> установка папки мастер
+
+git push -u origin main
+
+>> Протакливание своей версии на github
+
+----
 
 ### команды для изучения
 

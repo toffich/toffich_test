@@ -273,6 +273,10 @@ git clone https://github.com/ilnar-geekbrains/version_control_lection_3.git
 
 >> копирование чьего-то репозитория
 
+git pull
+
+>> скачмвание актуального репозмтория + слияние merge.
+
 ----
 
 ### команды для изучения

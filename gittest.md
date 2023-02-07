@@ -281,12 +281,5 @@ git pull
 
 ### команды для изучения
 
-git clone
-
-git remote
-
 git fetch
 
-git push
-
-git pull
